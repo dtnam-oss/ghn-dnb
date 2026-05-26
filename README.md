@@ -1,4 +1,4 @@
-# Anti Dashboard — GHN DNB
+# Dashboard — GHN DNB
 
 Next.js 15 dashboard phân tích hiệu suất giao hàng vùng Đông Nam Bộ (DNB) từ Google Sheet công khai.
 
